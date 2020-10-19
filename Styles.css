@@ -401,10 +401,10 @@ h2 {
 }
 
 .tran:hover {
-    transform: translateX(100px);
+    transform: translateX(15px);
 }
 #small{
-    height: 400px;
+    height: 300px;
 }
 .contact{
     background-color: #7579e7;
@@ -442,5 +442,5 @@ h2 {
     font-size: 2rem;
     line-height: 1.5;
     color: white;
-        margin-bottom: 0;
+    margin-bottom: 0;
 }
