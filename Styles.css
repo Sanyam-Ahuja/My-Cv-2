@@ -431,6 +431,7 @@ h2 {
 .contact1{
     background-color: #9ab3f5;
     text-align: center;
+    margin: 0px;
 }
 #icon1{
     font-size: 7rem;
@@ -441,4 +442,5 @@ h2 {
     font-size: 2rem;
     line-height: 1.5;
     color: white;
+        margin-bottom: 0;
 }
